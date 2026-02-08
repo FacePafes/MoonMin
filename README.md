@@ -12,3 +12,7 @@ THE single most minimal Rainmeter pack.
 
 ## 🛡️ License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📸 Preview
+![Date and Time](Images/Date%20and%20Time.png)
+![System and Battery](Images/System%20and%20Battery.png)
