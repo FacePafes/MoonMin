@@ -5,6 +5,11 @@
 
 THE single most minimal Rainmeter pack.
 
+## ✨ New in v1.1.0
+* **Connection Type:** Simple Display of connection.
+* **OS Version:** Displays windows version.
+* **Uptime:** Shows how long your device has been on for.
+
 ## 🛠️ Installation
 1. Download the latest `.rmskin` from the **[Releases](https://github.com/FacePafes/MoonMin/releases)** page.
 2. Run the installer.
